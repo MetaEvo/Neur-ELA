@@ -1,5 +1,5 @@
-# Neural Exploratory Landscape Analysis
-
+# Neural Exploratory Landscape Analysis for Meta-Black-Box-Optimization
+Here we provide sourcecodes of NeurELA, which has been recently accpeted by ICLR 2025 as a poster paper. We provide a novel way for extracting features from optimization process, hence facilitating any meta-level learning in recent MetaBBO context. 
 
 ## Requirements
 You can install all of dependencies of NeurELA via the command below.
