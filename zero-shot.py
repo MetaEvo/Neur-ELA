@@ -55,7 +55,7 @@ def evaluate(fe,train_set, test_set,config):
 if __name__ == '__main__':
     ray.init()
     seed = 0
-    load_path = '/home/chenjiacheng/Auto-feature/records/LDE_RLEPSO_RL_DAS_z-score_np.mean_20240429T015706/save_model/20240429T152953.pkl'
+    load_path = '20240423T094221.pkl'
     
     fe = load_data(load_path)
     config = get_config()
