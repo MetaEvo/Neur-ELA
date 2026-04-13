@@ -28,6 +28,10 @@ records
       |--...
 ```
 
+## Pre-trained Checkpoint
+
+We provide a pre-trained checkpoint at 20240423T094221.pkl, which you can use on your purpose.
+
 ## Zero-shot
 
 Once the NeurELA checkpoint saved, you can validate its zero-shot performance via running the commmand below. Note that you should provide `load_path` correctly 
